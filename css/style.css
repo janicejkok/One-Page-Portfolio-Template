@@ -80,7 +80,7 @@ header.hero h1 {
   line-height: 1.4em;
 }
 header.hero h1 span,
-header.hero h3 {
+header.hero h3 { 
   font-weight: 300;
 }
 header.hero .btn {
