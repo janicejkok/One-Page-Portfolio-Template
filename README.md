@@ -1,16 +1,4 @@
-# Free Bootstrap One-Page Portfolio Template
-
-### Preview
-[![Demo - Free Bootstrap One-Page Portfolio Template](http://designerdada.com/designerdada/wp-content/uploads/2017/04/One-Page-Portfolio-Free-Bootstrap-Template.jpg)](http://www.designerdada.com/designerdada/dd-repository/One-Page-Portfolio-Template/index.html)
-
-### Features
-
-* Free one-page template
-* Built with Bootstrap
-* 100% mobile-friendly
-* Case study and Testimonial sliders
-* Animated counter-up statistics section
-* PSD files included
+###Bootstrap One-Page Portfolio Template
 
 
 ### Credits
