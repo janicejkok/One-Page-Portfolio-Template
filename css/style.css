@@ -76,7 +76,7 @@ a.menu:hover {
 header.hero h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 4.5em;
-  font-weight: 600;
+  font-weight: 600; 
   line-height: 1.4em;
 }
 header.hero h1 span,
